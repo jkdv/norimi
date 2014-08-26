@@ -3,6 +3,7 @@ norimi
 
 네이버 중고나라 장터 노리미
 
+Norimi parses RSS feeds from the Naver Joonggonara website, which is similar to Craigslist, every second. If a feed text matches what you stored in the MySQL database, Norimi immediately sends you an email.
 
 향후 개발 방향<br/>
 1. URL과 찾을 내용을 DB에서 읽어 올 수 있도록<br/>
